@@ -1,2 +1,2 @@
-config
-  info : "welcome use myconfig with test , version = 1"
+config:
+  info: "welcome use myconfig with test , version = 1"
