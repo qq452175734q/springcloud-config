@@ -1,2 +1,2 @@
-config
-  info:"welcome use myconfig version with dev"
+config:
+  info: "welcome use myconfig version with dev"
